@@ -1,0 +1,6 @@
+Student Report Summary
+Total Students: 9
+Average Marks: 89.44444444444444
+Topper: Ram (100)
+Passed: 9, Failed: 0
+Class Performance: Excellent
